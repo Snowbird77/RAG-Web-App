@@ -1,5 +1,7 @@
 # PDF RAG Web App
 
+Deployed app: https://rag-web-app-jyg6lmd59qqrxmuuuqvrlu.streamlit.app/
+
 A Streamlit web application for chatting with PDF documents using Retrieval-Augmented Generation (RAG). Upload PDFs, ask questions, and get contextual responses powered by Groq's LLM API and local embeddings.
 
 ## Features
